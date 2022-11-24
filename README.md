@@ -1,6 +1,14 @@
 # Angular 5 Stable with node 10.24.1 stable version
 
 with node 8 not working
+[version of nodejs that i use](https://nodejs.org/download/release/v10.24.1/)
+
+Podemos usar  también la herramienta de update de angular,
+en la que lo recomendable es,de 1 en 1 ,for instance:from 
+5 to 6 ,later from 6 to 7 y así
+
+[Angular Update Guide](https://update.angular.io)
+
 
 # DemoNgfive
 
